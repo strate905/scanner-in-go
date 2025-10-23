@@ -1,0 +1,23 @@
+# Build artifacts
+scanner
+scanner.exe
+*.out
+*.test
+coverage.out
+
+# Go tool caches
+.gocache/
+.cache/
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+
+# Agent and AI assistant files
+AGENTS.md
+CLAUDE.md
+SPECIFICATIONS.md
+improvements_analysis.md
+IMPROVEMENTS_SUMMARY.md
+.aider*
